@@ -1,0 +1,11 @@
+header h1{
+    text-align: center;
+    color: lightgray;
+    background-color: gray;
+    border: 5px solid plum;
+    opacity: .60;
+}
+footer{
+    border: 1px solid plum;
+
+}

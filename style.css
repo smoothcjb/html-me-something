@@ -4,8 +4,22 @@ header h1{
     background-color: gray;
     border: 5px solid plum;
     opacity: .60;
+    border-radius: 10px;
+}
+.attribution{
+    color: lightgray;
 }
 footer{
-    border: 1px solid plum;
+    text-align: right;
+    color: lightgray;
+}
+article p{
+    text-align: center;
+    font-size: 14px;
+}
 
+#daejeonsa{
+    border: 1px solid black;
+    padding: 1px 1px;
+    margin: 50px 200px;
 }

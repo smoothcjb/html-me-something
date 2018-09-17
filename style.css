@@ -35,6 +35,9 @@ body{
 }
 
 #monks{
-    width: 800px; 
-    
+    margin: 0 0 20px 0;
+    width: 800px;    
+}
+figure{
+  font-size: 10px;
 }
